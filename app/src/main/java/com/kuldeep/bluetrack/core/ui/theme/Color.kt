@@ -1,4 +1,4 @@
-package com.kuldeep.bluetrack.ui.theme
+package com.kuldeep.bluetrack.core.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
